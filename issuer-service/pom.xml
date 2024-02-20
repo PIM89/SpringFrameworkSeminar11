@@ -46,6 +46,13 @@
             <artifactId>javafaker</artifactId>
             <version>0.15</version>
         </dependency>
+
+        <dependency>
+            <groupId>ru.gb</groupId>
+            <artifactId>spring-boot-method-timer</artifactId>
+            <version>0.0.1-SNAPSHOT</version>
+        </dependency>
+
     </dependencies>
 
 </project>

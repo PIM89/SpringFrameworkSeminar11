@@ -20,6 +20,8 @@
 		<module>discovery-service</module>
         <module>api</module>
 		<module>reader-service</module>
+		<module>spring-boot-method-timer</module>
+		<!--        <module>spring-boot-starter-method-timer</module>-->
 	</modules>
 	<properties>
 		<java.version>21</java.version>
